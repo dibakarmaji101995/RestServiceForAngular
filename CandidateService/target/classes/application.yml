@@ -1,0 +1,8 @@
+#server cfgs
+server:
+      servlet:
+          context-path: /CANDI 
+spring:
+  profiles:
+    active: dev
+      
